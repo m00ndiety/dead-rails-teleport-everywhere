@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/v0.3-reworked-/refs/heads/main/obfuscated.lua%20(1).txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/dead-rails-teleport-v0.4/refs/heads/main/obfuscated.lua'))()
